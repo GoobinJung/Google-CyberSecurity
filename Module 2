@@ -1,0 +1,151 @@
+Module 2 
+
+
+
+Viruses
+Malware
+Social engineering
+Digital Age
+Security domains
+
+
+
+
+Computer Virus : Malicious code written to interfere with computer operations and cause damage to data and software
+Brain virus
+Morris worm
+
+
+Two notable attacks that relied on the internet : the LoveLetter attack and the Equifax breach. 
+The Brain Virus was intended to safeguard medical software from piracy, but instead of tracking illegal copies, it infected computers with a virus that spread to any inserted disks. software. 
+The Morris Worm crawled the web and installed itself onto other computers to tally the number of computers that were connected to the internet, failed to keep track of the computers it had already compromised and continued to re-install itself until the computers ran out of memory and crashed, After the Morris worm, Computer Emergency Response Teams, known as CERTs®, were established to respond to computer security incidents.
+
+Social engineering : A manipulation technique that exploits human error to gain private information, access, or valuables 
+
+Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network. 
+Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+
+
+
+Social engineering principles : Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
+Authority: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures. 
+Intimidation: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told. 
+Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past. 
+Scarcity: A tactic used to imply that goods or services are in limited supply. 
+Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.  
+Trust: Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
+Urgency: A threat actor persuades others to respond quickly and without questioning.
+
+
+
+
+
+
+
+
+Phishing : The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+
+Business Email Compromise (BEC): A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+Malware : software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
+Viruses: Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+Worms: Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+Ransomware: A malicious attack where threat actors encrypt an organization's data and demand payment to restore access. 
+Spyware: Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
+Terms review
+
+Malware : A software designed to harm devices or networks
+Virus : A malware program that modifies other computer programs by inserting its own code to damage and destroy data
+Worm : Malware that self-replicates,spreading across the network and infecting computers
+Ransomware : A malicious attack during which threat actors encrypt an organization’s data and demand payment to restore access
+Spyware : Malicious software installed on a user's computer without their permission, which is used to spy on and steal user data
+Phishing : The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+Business email compromise (BEC) : An attack in which a threat actor impersonates a known source to obtain a financial advantage
+Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+Social engineering : A manipulation technique that exploits human error to gain private information, access, or valuables 
+
+Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network. 
+Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+
+
+
+CISSP Security domains
+security and risk management : Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law
+asset security : Secures digital and physical assets, it’s also related to the storage, maintenance, retention and destruction of data
+security architecture and engineering : optimizes data security by ensuring effective tools, systems, and processes are in place
+communication and network security : Manage and secure physical networks and wireless communications
+identity and access management : keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces and logical assets, such as networks and applications
+security assessment and testing : Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks,  threats, and vulnerabilities 
+security operations : Conducting investigations and implementing preventative measures
+software development security : Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attack types
+Password attack
+Brute force
+Rainbow table
+Social engineering attack
+Phishing
+Smishing
+Vishing
+Spear phishing
+Whaling
+Social media phishing
+Business Email Compromise (BEC)
+Watering hole attack
+USB (Universal Serial Bus) baiting
+Physical social engineering 
+Physical attack
+Malicious USB cable
+Malicious flash drive
+Card cloning and skimming
+Adversarial artificial intelligence : is a technique that manipulates artificial intelligence and machine learning technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
+Supply-chain attack : A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed
+Cryptographic attack
+Birthday
+Collision
+Downgrade
+
+
+
+
+Threat actor types
+Advanced persistent threats :Advanced persistent threats (APTs) have significant expertise accessing an organization's network without authorization. APTs tend to research their targets (e.g., large corporations or government entities)  in advance and can remain undetected for an extended period of time.
+Damaging critical infrastructure, such as the power grid and natural resources
+Gaining access to intellectual property, such as trade secrets or patents
+
+Insider threats : Insider threats abuse their authorized access to obtain data that may harm an organization. Their intentions and motivations can include: 
+Sabotage
+Corruption
+Espionage
+Unauthorized data access or leaks
+
+Hacktivists : Hacktivists are threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goals
+Demonstrations
+Propaganda
+Social change campaigns
+Fame
