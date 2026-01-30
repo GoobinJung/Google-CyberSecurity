@@ -1,0 +1,2028 @@
+Course 1 
+Module 2 
+
+
+
+Viruses
+Malware
+Social engineering
+Digital Age
+Security domains
+
+
+
+
+Computer Virus : Malicious code written to interfere with computer operations and cause damage to data and software
+Brain virus
+Morris worm
+
+
+Two notable attacks that relied on the internet : the LoveLetter attack and the Equifax breach. 
+The Brain Virus was intended to safeguard medical software from piracy, but instead of tracking illegal copies, it infected computers with a virus that spread to any inserted disks. software. 
+The Morris Worm crawled the web and installed itself onto other computers to tally the number of computers that were connected to the internet, failed to keep track of the computers it had already compromised and continued to re-install itself until the computers ran out of memory and crashed, After the Morris worm, Computer Emergency Response Teams, known as CERTs®, were established to respond to computer security incidents.
+
+Social engineering : A manipulation technique that exploits human error to gain private information, access, or valuables 
+
+Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network. 
+Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+
+
+
+Social engineering principles : Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
+Authority: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures. 
+Intimidation: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told. 
+Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past. 
+Scarcity: A tactic used to imply that goods or services are in limited supply. 
+Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.  
+Trust: Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
+Urgency: A threat actor persuades others to respond quickly and without questioning.
+
+
+
+
+
+
+
+
+Phishing : The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+
+Business Email Compromise (BEC): A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+Malware : software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
+Viruses: Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+Worms: Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+Ransomware: A malicious attack where threat actors encrypt an organization's data and demand payment to restore access. 
+Spyware: Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
+Terms review
+
+Malware : A software designed to harm devices or networks
+Virus : A malware program that modifies other computer programs by inserting its own code to damage and destroy data
+Worm : Malware that self-replicates,spreading across the network and infecting computers
+Ransomware : A malicious attack during which threat actors encrypt an organization’s data and demand payment to restore access
+Spyware : Malicious software installed on a user's computer without their permission, which is used to spy on and steal user data
+Phishing : The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+Business email compromise (BEC) : An attack in which a threat actor impersonates a known source to obtain a financial advantage
+Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+Social engineering : A manipulation technique that exploits human error to gain private information, access, or valuables 
+
+Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network. 
+Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+
+
+
+CISSP Security domains
+security and risk management : Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law
+asset security : Secures digital and physical assets, it’s also related to the storage, maintenance, retention and destruction of data
+security architecture and engineering : optimizes data security by ensuring effective tools, systems, and processes are in place
+communication and network security : Manage and secure physical networks and wireless communications
+identity and access management : keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces and logical assets, such as networks and applications
+security assessment and testing : Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks,  threats, and vulnerabilities 
+security operations : Conducting investigations and implementing preventative measures
+software development security : Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attack types
+Password attack
+Brute force
+Rainbow table
+Social engineering attack
+Phishing
+Smishing
+Vishing
+Spear phishing
+Whaling
+Social media phishing
+Business Email Compromise (BEC)
+Watering hole attack
+USB (Universal Serial Bus) baiting
+Physical social engineering 
+Physical attack
+Malicious USB cable
+Malicious flash drive
+Card cloning and skimming
+Adversarial artificial intelligence : is a technique that manipulates artificial intelligence and machine learning technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
+Supply-chain attack : A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed
+Cryptographic attack
+Birthday
+Collision
+Downgrade
+
+
+
+
+Threat actor types
+Advanced persistent threats (APTs) :Advanced persistent threats (APTs) have significant expertise accessing an organization's network without authorization. APTs tend to research their targets (e.g., large corporations or government entities)  in advance and can remain undetected for an extended period of time.
+Damaging critical infrastructure, such as the power grid and natural resources
+Gaining access to intellectual property, such as trade secrets or patents
+
+Insider threats : Insider threats abuse their authorized access to obtain data that may harm an organization. Their intentions and motivations can include: 
+Sabotage
+Corruption
+Espionage
+Unauthorized data access or leaks
+
+Hacktivists : Hacktivists are threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goals
+Demonstrations
+Propaganda
+Social change campaigns
+Fame
+
+
+
+
+
+
+
+
+
+Module 3
+Security frameworks and controls
+Ethics of security
+
+
+Security frameworks : Guidelines used for building plans to help mitigate risk and threats to data and privacy
+
+
+Components of security frameworks
+Identifying and documenting security goals
+Setting guidelines to achieve security goals
+Implementing security processes 
+Monitoring and communicating results
+
+
+Security controls : Safeguards designed to reduce specific security risks
+
+
+CIA Triad : A foundational model that helps inform how organizations consider risk when setting up systems and security polices
+CIA : Confidentiality, Integrity, Availability
+Confidentiality : Only authorized users can access specific assets or data
+Integrity : Data is correct, authentic, and reliable
+Availability : Data is accessible to those who are authorized to access it
+
+
+
+
+Asset : An item perceived as having value to an organization
+
+
+NIST Cybersecurity Framework (CSF) : A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+
+
+General Data Protection Regulation (GDPR) : GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. residents’ data and their right to privacy in and out of E.U. territory
+
+Security Ethics : Guidelines for making appropriate decisions as a security professional
+
+
+Ethical principles in security
+Confidentiality 
+Privacy protections
+Laws
+
+
+Counterattacks: Actions taken against threat actors, which are illegal in the U.S. and can lead to serious consequences, including escalation of attacks.
+Hacktivist: A person who uses hacking to achieve a political goal
+Health Insurance Portability and Accountability Act (HIPAA): A U.S. federal law established to protect patients' health information
+Protected health information (PHI): Information that relates to the past, present, or future physical or mental health or condition of an individual
+Security architecture: A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threat
+Security governance: Practices that help support, define, and direct security efforts of an organization
+Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+Laws: Rules recognized by a community and enforced by a governing entity, which security professionals must adhere to in their practice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 4
+
+Log : A record of events that occur within an organization’s systems
+
+Security Information and Event Management (SIEM) : An application that collects and analyzes log data to monitor critical activities in an organization
+
+Commonly used SIEM tools 
+Splunk : Data analysis platform 
+Chronicle : cloud-native SIEM tool that stores security data for search and analysis
+
+Other key security tools
+Playbooks : A manual that provides details about any operational action
+Network protocol analyzers(packet sniffer) : A tool designed to capture and analyze data traffic within a network (includes tcpdump and Wireshark)
+
+Types of playbook
+Chain of custody playbook : process of documenting evidence procession and control during an incident lifecycle
+Protecting and preserving evidence playbook : process of properly working with fragile and volatile digital evidence 
+
+Order of volatility: A sequence outlining the order of data that must be preserved from first to last
+
+Programming : Used to create a specific set of instructions for a computer to execute tasks
+
+Linux : An open source operating system that can be used to examine logs
+
+Linux traditionally relied on the CLI, but modern distributions typically come with a graphical user interface (GUI), which allows users to interact with the system using windows, icons, and menus, similar to Windows or macOS
+
+Structured Query Language(SQL) : A programming language used to create, interact with, and request information from a database
+
+Database : an organized collection of information or data. There can be millions of data points in a database
+
+Data point : Specific piece of information
+
+Python : Used to perform tasks that are repetitive and time-consuming, and that require a high level of detail and accuracy 
+
+Automation : the use of technology to reduce human and manual effort in performing common and repetitive tasks, it also helps reduce the risk of human error.
+
+Operating system : the interface between computer hardware and the user, Linux, macOS,and windows are operating systems
+
+Command : instruction telling the computer to do something
+
+Command line : text based user interface that uses commands to interact with computer
+
+Web vulnerability : a unique flaw in a web application that a threat actor could exploit by using malicious code or behavior, to allow unauthorized access, data theft, and malware deployment
+
+Antivirus software : a software program used to prevent, detect, and eliminate malware and viruses. It is also called anti-malware
+
+Intrusion detection system(IDS) : an application that monitors system activity and alerts on possible intrusions
+
+Encryption : the process of converting data from a readable format to a cryptographically encoded format
+
+Cryptographic encoding : converting plaintext into secure ciphertext
+
+Plaintext : unencrypted information and secure ciphertext is the result of encryption
+
+Penetration testing : the act of participating in a simulated attack that helps identify vulnerabilities in systems, networks,websites, applications, and processes 
+
+
+
+
+
+
+
+
+Portfolios
+Documents folder
+Resume
+Education
+Portfolio documents
+Cybersecurity tools
+Programming 
+Google Drive or Dropbox™
+Google Sites
+Git repository
+GitLab
+Bitbucket™
+GitHub
+
+
+Key concepts 
+
+Document Folder: A document folder is a local storage option on a computer where professionals can organize their portfolio documents and images for easy access.
+Cloud Storage (Google Drive, Dropbox): Cloud storage services like Google Drive and Dropbox allow users to store and share portfolio documents online, providing easy access and collaboration features.
+Google Sites: Google Sites is a website hosting platform that enables users to create customizable portfolio websites that can be shared with potential employers.
+Git Repository: A Git repository is a version-controlled space where professionals can store and showcase their portfolio projects, including code and documentation.
+Cybersecurity Portfolio: A cybersecurity portfolio is a collection of documents and projects that demonstrate a professional's education, skills, and knowledge in the field of cybersecurity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 2
+Module 1 - Security domains
+
+CISSP Security Domains: The eight domains defined by the Certified Information Systems Security Professional (CISSP) framework that outline the key areas of knowledge in cybersecurity
+
+
+Risk Management Framework: A structured process for identifying, assessing, and mitigating risks to an organization's information and assets, often guided by standards such as those from NIST
+
+
+Security Frameworks: Structured approaches that provide guidelines and best practices for managing security risks and ensuring the protection of information assets
+
+
+Security Tools: Software and systems used by cybersecurity professionals to monitor, detect, and respond to security incidents and vulnerabilities
+
+
+CISSP Security domains
+security and risk management : Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law
+Security goals and objectives
+Risk mitigation processes
+Compliance
+Business continuity plans
+Legal regulations
+Professional and organizational ethics
+asset security : Secures digital and physical assets, it’s also related to the storage, maintenance, retention and destruction of data
+security architecture and engineering : optimizes data security by ensuring effective tools, systems, and processes are in place
+Threat modeling
+Least privilege
+Defense in depth
+Fail securely
+Separation of duties
+Keep it simple
+Zero trust
+Trust but verify
+communication and network security : Manage and secure physical networks and wireless communications
+identity and access management : keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces and logical assets, such as networks and applications
+security assessment and testing : Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks,  threats, and vulnerabilities 
+security operations : Conducting investigations and implementing preventative measures
+software development security : Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
+
+
+Security posture: An organization’s ability to manage its defense of critical assets and data, and react to change
+
+
+Risk mitigation: The process of having the right procedures and rules in place to quickly reduce the impact of a risk like a breach
+
+
+Business continuity: An organization’s ability to maintain their everyday productivity by establishing risk disaster recovery plans
+
+
+Shared responsibility: All individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security
+
+
+Components of identity and access management(IAM)
+Identification
+Authentication
+Authorization
+Accountabillity
+
+
+Threat: Any circumstance or event that can negatively impact assets
+
+
+Social engineering : A manipulation technique that exploits human error to gain private information, access, or valuables 
+
+Low risk asset: information that would not harm the organization’s reputation or ongoing operations, and would not cause financial damage if compromised
+
+Medium risk asset: Information that’s not available to the public and may cause some damage to the organization’s finances, reputation, or ongoing operations
+
+High risk asset: Information protected by regulations or laws, which if compromised would have a severe negative impact on an organization’s finances, ongoing operations, or reputation
+Vulnerability: A weakness that can be exploited by a threat
+
+Ransomware: A malicious attack where threat actors encrypt an organization’s data and demand payment to restore access
+
+Layers of the web
+Surface web
+Deep web
+Dark web
+
+Key impacts
+Financial
+Identity theft
+Reputation
+
+Risk Management Framework (RMF) 7steps
+Prepare : Activities that are necessary to manage security and privacy risks before a breach occurs
+Categorize: Used to develop risk management processes and tasks
+Select: Choose, customize, and capture documentation of the controls that protect an organization 
+Implement: Implement security and privacy plans for the organization
+Assess: Determine if established controls are implemented correctly
+Authorize: Being accountable for the security and privacy risks that may exist in an organization 
+Monitor: Be aware of how systems are operating 
+
+
+
+
+ Some common strategies used to manage risks include
+Acceptance: Accepting a risk to avoid disrupting business continuity
+Avoidance: Creating a plan to avoid the risk altogether
+Transference: Transferring risk to a third party to manage
+Mitigation: Lessening the impact of a known risk
+
+
+Risks
+External risk: Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information
+Internal risk: A current or former employee, vendor, or trusted partner who poses a security risk
+Legacy systems: Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
+Multiparty risk: Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
+Software compliance/licensing: Software that is not updated or in compliance, or patches that are not installed in a timely manner
+
+
+Vulnerabilities
+ProxyLogon: A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.
+ZeroLogon: A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
+Log4Shell: Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
+PetitPotam: Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.
+Security logging and monitoring failures: Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
+Server-side request forgery: Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 2
+Module 2 - Security frameworks and controls
+
+Security frameworks: Guidelines used for building plans to help mitigate risk and threats to data and privacy
+ 
+Security controls: Safeguards designed to reduce specific security risks
+Encryption: The process of converting data from a readable format to encoded format
+Authentication: The process of verifying who someone or something is
+Biometrics: Unique physical characteristics that can be used to verify a person’s identity
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+
+Authorization: The concept of granting access to specific resources within a system
+
+CIA Triad : A foundational model that helps inform how organizations consider risk when setting up systems and security polices
+CIA : Confidentiality, Integrity, Availability
+Confidentiality : Only authorized users can access specific assets or data
+Integrity : Data is correct, authentic, and reliable
+Availability : Data is accessible to those who are authorized to access it
+
+
+NIST Cybersecurity Framework (CSF) : A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+
+
+6 core functions of NIST
+Govern : emphasizes the importance of strong cybersecurity governance across all levels of the organization
+Identify: The management of cybersecurity risk and its effect on an organization’s people and assets
+Protect: The strategy used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats
+Detect: Identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections
+Respond: Making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process
+Recover: The process of retuning affected systems back to normal operation
+
+
+NIST S.P. 800-53: A unified framework for protecting the security of information systems within the federal government
+
+
+OWASP security principles
+Minimize attack surface area: Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
+Principle of least privilege: Users have the least amount of access required to perform their everyday tasks.
+Defense in depth: Organizations should have varying security controls that mitigate risks and threats.
+Separation of duties: Critical actions should rely on multiple people, each of whom follow the principle of least privilege. 
+Keep security simple: Avoid unnecessarily complicated solutions. Complexity makes security difficult. 
+Fix security issues correctly: When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
+Establish secure defaults: this principle means that the optimal security state of an application is also its default state for users; it should take extra work to make the application insecure. 
+Fail securely: when a control fails or stops, it should do so by defaulting to its most secure option. For example, when a firewall fails it should simply close all connections and block all new ones, rather than start accepting everything.
+Security audit: A review of an organization’s security controls, policies, and procedures against a set of expectations
+
+
+Purposes of internal security audits
+Identify organizational risk
+Assess controls
+Correct compliance issue
+
+
+Common elements of internal audits
+Establishing the scope and goals
+Conducting a risk assessment
+Completing a controls assessment
+Assessing compliance
+Communicating
+
+
+Scope: refers to the specific criteria of an internal security audit
+
+
+Audit questions
+What is the audit meant to achieve ? 
+Which assets are most at risk
+Are current controls sufficient to protect those assets ? 
+What controls and compliance regulations need to be implemented ?
+
+
+
+
+Control categories 
+Administrative controls
+Technical controls
+Physical controls
+
+
+Stakeholder communication
+Summarizes scope and goals
+Lists existing risks
+Notes how quickly those risks need to be addressed 
+Identifies compliance regulations
+Provides recommendation
+
+
+A security professional closely examines their organization’s network, then evaluates potential risks to the network. Their goal is to ensure internal safeguards and processes are effective. What security concept does this scenario describe? Control assessment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 2
+Module 3 - Introduction to cybersecurity tools
+
+Log: A record of events that occur within an organization's system and networks
+
+Common log  sources
+Firewall logs: Record of attempted or established connections for incoming traffic from the internet. It also includes outbound requests to the internet from within the network
+Network logs: Record of all computers and devices that enter and leave the network. It also records connections between devices and services on the network.
+Server logs: Record of events related to services such as websites, emails or file shares. It includes actions such as login, password, and username requests
+
+Security Information and Event Management (SIEM) : An application that collects and analyzes log data to monitor critical activities in an organization
+
+SIEM tools must be configured and customized to meet each organization's unique security needs.
+
+Metrics: Key technical attributes, such as response time, availability, and failure rate, which are used to assess the performance of a software application
+
+Security orchestration, automation, and response (SOAR): a collection of applications, tools, and workflows that uses automation to respond to security events
+
+Different types of SIEM tools
+Self hosted
+Cloud hosted
+
+Splunk Enterprise: A self hosted tool used to retain, analyze, and search an organization’s log data to provide security information and alerts in real time
+
+Splunk cloud: A cloud hosted tool used to collect, search, and monitor log data
+
+Splunk: Splunk offers different SIEM tool options: Splunk® Enterprise and Splunk® Cloud. Both allow you to review an organization's data on dashboards. This helps security professionals manage an organization's internal infrastructure by collecting, searching, monitoring, and analyzing log data from multiple sources to obtain full visibility into an organization’s everyday operations. 
+
+
+
+Splunk dashboards
+Security posture dashboard: The security posture dashboard is designed for security operations centers (SOCs). It displays the last 24 hours of an organization’s notable security-related events and trends and allows security professionals to determine if security infrastructure and policies are performing as designed. 
+Executive summary dashboard: The executive summary dashboard analyzes and monitors the overall health of the organization over time. This helps security teams improve security measures that reduce risk. 
+Incident review dashboard: The incident review dashboard allows analysts to identify suspicious patterns that can occur in the event of an incident. 
+Risk analysis dashboard: The risk analysis dashboard helps analysts identify risk for each risk object (e.g., a specific user, a computer, or an IP address).
+
+Chronicle: Chronicle is a cloud-native SIEM tool from Google that retains, analyzes, and searches log data to identify potential security threats, risks, and vulnerabilities. Chronicle allows you to collect and analyze log data according to: 
+A specific asset
+A domain name
+A user
+An IP address
+
+
+Chronicle dashboards
+Enterprise insights dashboard: The enterprise insights dashboard highlights recent alerts. It identifies suspicious domain names in logs, known as indicators of compromise (IOCs).
+Data ingestion and health dashboard: The data ingestion and health dashboard shows the number of event logs, log sources, and success rates of data being processed into Chronicle.
+IOC matches dashboard: The IOC matches dashboard indicates the top threats, risks, and vulnerabilities to the organization. 
+Main dashboard: The main dashboard displays a high-level summary of information related to the organization’s data ingestion, alerting, and event activity over time. 
+Rule detections dashboard: The rule detections dashboard provides statistics related to incidents with the highest occurrences, severities, and detections over time.
+User sign in overview dashboard: The user sign in overview dashboard provides information about user access behavior across the organization.
+
+
+
+Cybersecurity tools
+Open source tools: free to use and user friendly
+Linux
+Suricata
+Proprietary tools: developed and owned by a person or company
+
+Incident response: An organization’s quick attempt to identify an attack, contain the damage, and correct the effects of a security breach
+
+Operating system (OS): The interface between computer hardware and the user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 2
+Module 4 - Use playbooks to respond to incidents
+
+Playbook: A manual that provides details about any operational action
+
+Incident response: An organization’s quick attempt to identify an attack, contain the damage, and correct the effects of a security breach
+
+Incident response playbook phases
+Preparation: Before incidents occur, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users.
+Detection and analysis: Detect and analyze events by implementing defined processes and appropriate technology
+Containment: Prevent further damage and reduce immediate impact of incidents.
+Eradication and recovery: Completely remove artifacts of the incident so that an organization can return to normal operations.
+Post incident activity: Document the incident, inform organizational leadership, and apply lessons learned
+Coordination: Report incidents and share information throughout the response process, based on established standards.
+
+You can use playbooks for:
+Open attacks
+Privacy incidents
+Data leaks
+Denial of service attacks
+Service alerts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 3
+Module 1 - Network architecture
+
+Network: A group of connected devices
+
+Local Area Network(LAN): A network that spans a small area like an office building, a school, or a home
+
+Wide Area Network(WAN): A network that spans a large geographic area like a city, state,or country
+
+Hub: A network device that broadcasts information to every device on the network
+
+Switch: A device that makes connections between specific devices on a network by sending and receiving data between them
+
+Router: A network device that connects multiple networks together
+
+Modem: A device that connects your router to the internet and brings internet access to the LAN
+
+Virtualizations tools: Pieces of software that perform network operations
+
+Firewall: a network security device that monitors traffic to or from your network
+
+Cloud computing: The practice of using remote servers, applications, and network services that are hosted on the internet instead of on local physical devices
+
+Cloud network: A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
+
+CSP
+Software as a service (SaaS): software suites operated by the CSP that a company can use remotely without hosting the software.
+Infrastructure as a service (IaaS): use of virtual computer components offered by the CSP. 
+Platform as a service (PaaS): tools that application developers can use to design custom applications for their company
+
+
+Data packet: A basic unit of information that travels from one device to another within a network
+
+
+Data Packet components
+Header
+IP address
+MAC Address
+Protocol Number
+Body: Message
+Footer
+
+Bandwidth: The amount of data a device receives every second
+
+Speed: The rate at which data packets are received or downloaded
+
+Packet sniffing: The practice of capturing and inspecting data packets across a network
+
+Transmission Control Protocol(TCP): An internet communication protocol that allows two devices to form a connection and stream data
+
+User Datagram Protocol(UDP): a connectionless protocol that does not establish a connection between devices before transmissions
+
+Internet Protocol(IP): A set of standards used for routing and addressing data packets as they travel between devices on a network
+
+Internet Control Message Protocol(ICMP): The ICMP shares error information and status updates of data packets.
+
+Port: A software based location that organizes the sending and receiving of data between devices on a network
+
+Commonly used port numbers
+Port 25: Email
+Port 443: Secure internet communication
+Port 20: Large file transfers
+
+
+
+
+
+
+
+
+
+
+TCP/IP model: A framework used to visualize how data is organized and transmitted across the network
+First layer: Network Access
+Second layer: Internet 
+Internet Protocol(IP)
+Internet Control Message Protocol(ICMP)
+Third layer: Transport
+Transmission Control Protocol(TCP)
+User Datagram Protocol(UDP)
+Fourth layer: Application
+Hypertext transfer protocol (HTTP)
+Simple mail transfer protocol (SMTP)
+Secure shell (SSH)
+File transfer protocol (FTP)
+Domain name system (DNS)
+
+OSI model: a standardized concept that describes the seven layers computers use to communicate and send data over the network
+1. Physical layer
+2. Data link layer
+3. Network layer
+4. Transport layer
+5. Session layer
+6. Presentation layer
+7. Application layer
+
+Internet Protocol(IP) address: A unique string of characters that identifies the location of a device on the internet
+
+2 types of IP address
+IP version 4(IPv4) ex: 19.117.63.126
+IP version 6(IPv6) ex: 684D:1111:222:3333:4444:5555:6:77
+
+MAC address: A unique alphanumeric identifier that is assigned to each physical device on a network
+
+There are 13 fields within the header of an IPv4 packet:
+Version (VER): This 4 bit component tells receiving devices what protocol the packet is using. The packet used in the illustration above is an IPv4 packet.
+IP Header Length (HLEN or IHL): HLEN is the packet’s header length. This value indicates where the packet header ends and the data segment begins. 
+Type of Service (ToS): Routers prioritize packets for delivery to maintain quality of service on the network. The ToS field provides the router with this information.
+Total Length: This field communicates the total length of the entire IP packet, including the header and data. The maximum size of an IPv4 packet is 65,535 bytes.
+Identification: IPv4 packets can be up to 65, 535 bytes, but most networks have a smaller limit. In these cases, the packets are divided, or fragmented, into smaller IP packets. The identification field provides a unique identifier for all the fragments of the original IP packet so that they can be reassembled once they reach their destination.
+Flags: This field provides the routing device with more information about whether the original packet has been fragmented and if there are more fragments in transit.
+Fragmentation Offset: The fragment offset field tells routing devices where in the original packet the fragment belongs.
+Time to Live (TTL): TTL prevents data packets from being forwarded by routers indefinitely. It contains a counter that is set by the source. The counter is decremented by one as it passes through each router along its path. When the TTL counter reaches zero, the router currently holding the packet will discard the packet and return an ICMP Time Exceeded error message to the sender. 
+Protocol: The protocol field tells the receiving device which protocol will be used for the data portion of the packet.
+Header Checksum: The header checksum field contains a checksum that can be used to detect corruption of the IP header in transit. Corrupted packets are discarded.
+Source IP Address: The source IP address is the IPv4 address of the sending device.
+Destination IP Address: The destination IP address is the IPv4 address of the destination device.
+Options: The options field allows for security options to be applied to the packet if the HLEN value is greater than five. The field communicates these options to the routing devices.
+
+
+Course 3
+Module 2 - Network operations
+
+Network protocols: A set of rules used by two or more devices on a network to describe the order of delivery and the structure of the data
+
+Communication protocols
+Transmission Control Protocol(TCP): An internet communications protocol that allows two devices to form a connection and stream data
+User Datagram Protocol(UDP): a connectionless protocol that does not establish a connection between devices before transmissions
+Hypertext Transfer Protocol (HTTP):an application layer protocol that provides a method of communication between clients and website servers (uses port 80)
+Domain Name System(DNS): A network protocol that translates internet domain names into IP addresses
+
+Management protocols
+Simple Network Management Protocol (SNMP): a network protocol used for monitoring and managing devices on a network
+Internet Control Message Protocol (ICMP): an internet protocol used by devices to tell each other about data transmission errors across the network
+
+Security protocols
+HyperText Transfer Protocol Secure(HTTPS): A network protocol that provides a secure method of communication between clients and website server
+Secure File Transfer Protocol (SFTP): a secure protocol used to transfer files from one device to another over a network.
+SSL/TLS
+
+
+Address Resolution Protocol(ARP): A network protocol used to determine the MAC address of the next router or device on the path
+
+Private IP Address
+Assigned by the router
+Unique only within private network
+No cost to use
+Address ranges:
+10.0.0.0-10.255.255.255
+172.16.0.0-172.31.255.255
+192.168.0.0-192.168.255.255
+Public IP Addresses
+Assigned by ISP and IANA
+Unique address in global internet
+Costs to lease a public IP address
+Assignable address ranges:
+1.0.0.0-9.255.255.255
+11.0.0.0-126.255.255.255
+128.0.0.0-172.15.255.255
+172.32.0.0-192.167.255.255
+192.169.0.0-233.255.255.255
+
+
+Dynamic Host Configuration Protocol(DHCP): an application layer protocol used on a network to configure devices
+
+Telnet: an application layer protocol that is used to connect with a remote system
+
+Post office protocol(POP): an application layer (layer 4 of the TCP/IP model) protocol used to manage and retrieve email from a mail server
+
+Internet Message Access Protocol(IMAP): IMAP is used for incoming email. It downloads the headers of emails and the message content
+
+Simple Mail Transfer Protocol: Simple Mail Transfer Protocol (SMTP) is used to transmit and route email from the sender to the recipient’s address.
+
+
+DHCP
+UDP port 67 (servers)
+UDP port 68 (clients)
+ARP
+none
+Telnet
+TCP port 23
+SSH
+TCP port 22
+POP3
+TCP/UDP port 110 (unencrypted)
+TCP/UDP port 995 (encrypted, SSL/TLS)
+IMAP
+TCP port 143 (unencrypted)
+TCP port 993 (encrypted, SSL/TLS)
+SMTP
+TCP/UDP Port 25 (unencrypted)
+SMTPS
+TCP/UDP port 587 (encrypted, TLS)
+
+IEEE 802.11(WIFI): A set of standards that define communication for wireless LANs
+
+WiFi Protected Access(WPA): A wireless security protocol for devices to connect to the internet
+
+Wired equivalent privacy (WEP): a wireless security protocol designed to provide users with the same level of privacy on wireless network connections as they have on wired network connections
+
+Firewall: A network security device that monitors traffic to and from your network
+
+Port filtering: A firewall function that blocks or allows certain port numbers to limit unwanted communication
+
+Cloud-based firewalls: Software firewalls that are hosted by a cloud service provider
+
+Stateful: A class of firewall that keeps track of information passing through it and proactively filters out threats
+
+Stateless: A class of firewall that operates based on predefined rules and does not keep track of information from data packets (less secure)
+
+Benefits of next generation firewalls(NGFWs)
+Deep packet inspection
+Intrusion protection
+Threat intelligence
+
+Virtual Private Network(VPN): A network security service that changes your public IP address and hides your virtual location so that you can keep your data private when you are using a public network like the internet.
+
+Encapsulation: A process performed by a VPN service that protects your data by wrapping sensitive data in other data packets
+
+Security zone: A segment of a network that protects the internal network from the internet
+
+Network segmentation: A security technique that divides the network into segments
+
+Uncontrolled zone: Any network outside of the organization’s control
+
+Controlled zone: A subnet that protects the internal network from the uncontrolled zone	
+Areas in the controlled zone
+Demilitarized zone(DMZ)
+Internal network
+Restricted zone
+Proxy server: A server that fulfills the requests of a client by forwarding them on to other servers
+
+Forward proxy server: Regulates and restricts a person’s access to the internet
+
+Reverse proxy server: Regulates and restricts the internet’s access to an internal server
+
+Subnetting: The subdivision of a network into logical groups called subnets
+
+
+
+WireGuard VPN: WireGuard is a high-speed VPN protocol, with advanced encryption, to protect users when they are accessing the internet.
+
+IPSec VPN: IPSec is older and more complex than WireGuard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course 3
+Module 3- Secure against network intrusions
+
+Common network intrusion attacks
+Malware 
+Spoofing
+Packet sniffing
+Packet flooding
+
+Attacks can harm an organization by
+Leaking valuable or confidential information
+Damaging an organization’s reputation
+Impacting customer retention
+
+Denial of service attack(DoS): An attack that targets a network or server and floods it with network traffic
+
+Distributed denial of service attack(DDoS):A type of denial of service attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic
+
+Internet Control Message Protocol(ICMP): An internet protocol used by devices to tell each other about data transmission errors across the network
+
+Common DoS Attack
+SYN(synchronize) flood attack: A type of DoS attack that simulates a TCP connection and floods a server with SYN packets
+
+ICMP flood: A type of DoS attack performed by an attacker repeatedly sending ICMP packets to a network server
+
+Ping of death: A type of Dos attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB
+
+Network protocol analyzer(packet sniffer)
+SolarWinds NetFlow Traffic Analyzer
+ManageEngine OpManager
+Azure Network Watcher
+Wireshark
+Tcpdump
+
+
+tcpdump: tcpdump is a command-line network protocol analyzer
+
+
+Some information you receive from a packet capture includes: 
+Timestamp: The output begins with the timestamp, formatted as hours, minutes, seconds, and fractions of a second.  
+Source IP: The packet’s origin is provided by its source IP address.
+Source port: This port number is where the packet originated.
+Destination IP: The destination IP address is where the packet is being transmitted to.
+Destination port: This port number is where the packet is being transmitted to.
+
+
+Passive packet sniffing: A type of attack where data packets are read in transit
+Active packet sniffing: A type of attack where data packets are manipulated in transit
+How to prevent these attacks: VPN, HTTPS
+
+
+IP spoofing: A network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network
+On-path attack: An attack where a malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit
+Replay attack: A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time
+Smurf attack: A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with packets
+
+
+
+
+
+
+
+
+
+
+Course 3
+Module 4 
+
+Security hardening: The process of strengthening a system to reduce its vulnerability and attack surface
+
+Attack surface: All the potential vulnerabilities that a threat actor could exploit
+
+Operating system(OS): The interface between computer hardware and the user
+
+Patch update: A software and operating system update that addresses security vulnerabilities within a program or product
+
+Baseline configuration:(baseline image): A documented set of specifications within a system that is used as a basis for future builds, releases, and updates
+
+Multi-Factor authentication(MFA): A security measure which requires a user to verify their identity in two or more ways to access a system or network
+
+Brute force attacks: a trial-and-error process of discovering private information
+Simple brute force attacks. When attackers try to guess a user's login credentials, it’s considered a simple brute force attack
+In dictionary attacks, attackers use a list of commonly used passwords and stolen credentials from previous breaches to access a system
+
+Sandbox environments: A sandbox is a type of testing environment that allows you to execute software or programs separate from your network
+
+Prevention measures
+Salting and hashing
+Multi-factor authentication (MFA) and two-factor authentication (2FA)
+CAPTCHA and reCAPTCHA
+Password policies
+
+Network security hardening
+Port filtering: A firewall function that blocks or allows certain port numbers to limit unwanted communication 
+Network access privilege
+Encryption
+
+
+
+
+
+Tasks performed
+Firewall rules maintenance
+Network log analysis
+Patch updates
+Server backups
+
+Network log analysis: the process of examining network logs to identify events of interest by using log analyzer tool and SIEM tool
+
+SIEM: An application that collects and analyzes log data to monitor critical activities in an organization
+
+Intrusion detection system(IDS): an application that monitors system activity and alerts on possible intrusions
+
+Intrusion Prevention system(IPS): an application that monitors system activity for intrusive activity and takes action to stop the activity
+
+Zero day attack: an exploit that was previously unknown
+
+Hypervisors: A hypervisor abstracts the host’s hardware from the operating software environment
+VMware®'s ESXi
+VirtualBox
+
+Cryptographic erasure:  a method of erasing the encryption key for the encrypted data
+
+World-writable file: A file that can be altered by anyone in the world
+
+
+Course 4
+Module 1
+
+Operating system(OS): The interface between computer hardware and the user
+
+Hardware: The physical components of a computer
+
+Application: A program that performs a specific task
+
+Basic Input/Output System (BIOS): a microchip that contains loading instructions for the computer and is prevalent in older systems. 
+
+Unified Extensible Firmware Interface (UEFI): a microchip that contains loading instructions for the computer and replaces BIOS on more modern systems.
+
+Bootloader: A software program that boots the operating system
+
+Benefits of virtual machines
+Security
+Efficiency
+Managing virtual machines: Virtual machines can be managed with a software called a hypervisor. Hypervisors help users manage multiple virtual machines and connect the virtual and physical hardware
+Kernel-based Virtual Machine (KVM)
+
+User interface(UI): A program that allows the user to control the functions of the operating system
+
+Basic GUI components
+Start menu 
+Task bar
+Desktop with icons and shortcuts
+
+graphical user interface (GUI): a user interface that uses icons on the screen to manage different tasks on the computer
+
+Command-line interface(CLI): A text-based user interface that uses commands to interact with the computer
+
+
+Course 4
+Module 2
+
+Linux: An open-source operating system
+
+Components of Linux
+User
+Application
+Shell
+Filesystem Hierarchy Standard
+Kernel
+Hardware
+
+User: The person interacting with a computer
+
+Application: A program that performs a specific task
+
+Shell: The command-line interpreter
+
+Filesystem Hierarchy Standard(FHS): The component of the Linux OS that organizes data
+
+Kernel: The component of the Linux OS that manages processes and memory
+
+Hardware: The physical components of a computer
+CPU
+Mouse
+Keyboard
+
+Peripheral devices: hardware components that are attached and controlled by the computer system
+Monitor
+Printer
+
+Distributions: The different versions of Linux
+Parent distributions
+Red Hat Enterprise Linux(centOS)
+Slackware(SUSE)
+Debian(Ubuntu and KALI LINUX)
+
+Penetration test: A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
+
+Penetration testing tools in KALI LINUX 
+Metasploit
+Burp Suite
+John the Ripper
+
+Digital forensics: The practice of collecting and analyzing data to determine what has happened after an attack
+
+Digital forensics tools in KALI LINUX
+Tcpdump
+Wireshark
+Autopsy
+
+Ubuntu: an open-source, user-friendly distribution that is widely used in security and other industries. It has both a command-line interface (CLI) and a graphical user interface (GUI). 
+
+Parrot: an open-source distribution that is commonly used for security. Similar to KALI LINUX ™,
+
+Red Hat Enterprise Linux: a subscription-based distribution of Linux built for enterprise use
+
+AlmaLinux : a community-driven Linux distribution that was created as a stable replacement for CentOS. 
+
+Package: a piece of software that can be combined with other packages to form an application
+
+package manager: a tool that helps users install, manage, and remove packages or applications
+
+Advanced Package Tool(APT): a tool used with Debian-derived distributions. It is run from the command-line interface to manage, search, and install packages
+
+Yellowdog Updater Modified (YUM):a tool used with Red Hat-derived distributions. It is run from the command-line interface to manage, search, and install packages. YUM works with .rpm files.
+Shell: The command-line interpreter
+
+Command: An instruction telling the computer to do something
+
+Bash: the default shell in most Linux distributions. It’s considered a user-friendly shell. You can use bash for basic Linux commands as well as larger projects.
+
+Standard input: Information received by the OS via the command line
+
+echo: A linux command that outputs a specified string of text
+
+String data: data consisting of an ordered sequence of characters
+
+Standard output: Information returned by the OS through the shell
+
+Standard error: Error messages returned by the OS through the shell
+
+
+
+
+Course 4
+Module 3
+
+Bash: The default shell in most Linux distributions
+
+Command: An instruction telling the computer to do something
+
+Argument(Linux): Specific information needed by a command
+
+Filesystem Hierarchy Standard(FHS): The component of the Linux OS that organizes data
+
+Root directory: The highest-level directory in Linux
+
+Commands
+pwd: Prints the working directory onto the screen
+ls: Displays the names of files and directories in the current working directory
+cd: Navigates between directories
+cat: Displays the content of a file
+head: Displays just the beginning of a file, by default 10 lines
+tail: The tail command does the opposite of head. This command can be used to display just the end of a file, by default 10 lines.
+less: The less command returns the content of a file one page at a time
+
+An absolute file path is the full file path that starts from the root, and a relative file path is a shorter file path that starts from the current directory.
+
+Commands
+grep: Searches a specified file and returns all lines in the file containing a specified string
+I(piping): Sends the standard output of one command as standard input to another command for further processing
+find: The find command searches for directories and files that meet specified criteria.
+
+Commands
+mkdir: Creates a new directory
+rmdir: The rmdir command removes, or deletes, a directory
+touch: Creates a new file
+rm: Removes, or deletes, a file
+mv: Moves a file or directory to a new location
+cp: Copies a file or directory into a new location
+
+nano: a command-line file editor that is available by default in many Linux distributions
+
+Permissions: The type of access granted for a file or directory
+Read
+Write
+Execute
+
+Types of owners
+User
+Group
+Other
+
+Options: Modify the behavior of the command
+Commands
+ls -l : displays permissions to files and directories 
+ls -a: displays hidden files
+ls -la: displays permissions to files and directories including hidden files
+chmod: changes permissions on files and directories
+
+Root user(or superuser): A user with elevated privileges to modify the system
+
+Problems with logging in as root
+Security risks
+Irreversible mistakes
+Accountability
+
+sudo: temporarily grants elevated permissions to specific users
+Commands
+useradd: adds a user to the system
+userdel: deletes a user from the system
+chown: The chown command changes ownership of a file or directory
+Commands
+man: displays information on other commands and how they work
+whatis: displays a description of a command on a single line
+Apropos: Searches the manual page descriptions for a specified string
+
+Course 4
+Module 4
+
+Database: An organized collection of information or data
+Accessed by multiple people simultaneously 
+Store massive amounts of data
+Perform complex tasks while accessing data
+
+Spreadsheets
+Designed for a single user or a small team
+Store less data
+
+Relational database: A structured database containing tables that are related to each other
+
+Primary Key: A column where every row has a unique entry
+
+Foreign key: A column in a table that is a primary key in another table
+
+SQL(Structured Query Language): A programming language used to create, interact with, and request information from a database
+
+Query: A request for data from a database table or a combination of tables
+
+Log: A record of events that occur within an organization’s systems
+
+SQL
+SELECT: Indicates which columns to return
+FROM: Indicates which table to query
+BETWEEN: An operator that filters for numbers or dates within a range
+
+Syntax: The rules that determine what is correctly structured in a computing language
+
+Filtering: Selecting data that match a certain condition
+
+Operator: A symbol or keyword that represents an operation
+=
+>
+<
+<>
+>=
+<=
+
+
+Commands
+WHERE: Indicates the condition for a filter
+LIKE: Used with WHERE to search for a pattern in a column
+
+String data: Data consisting of an ordered sequence of characters
+
+Numeric data: Data consisting of numbers
+
+Date and time data: Data representing a date and/or time
+Commands
+AND: Specifies that both conditions must be met simultaneously
+OR: Specifies that either condition can be met
+NOT: Negates a condition
+INNER JOIN: Return rows matching on a specified column that exists in more than one table
+Types of outer joins
+LEFT JOIN: Returns all of the records of the first table
+RIGHT JOIN: Return all of the records of the second table
+FULL OUTER JOIN: Returns all records from both tables
+
+Course 5
+Module 1
+
+1Risk: Anything that can impact the confidentiality, integrity, or availability of an asset
+Security risk planning
+Assets
+Threats
+Vulnerabilities
+
+Asset: An item perceived as having value to an organization
+
+Threat: Any circumstance or event that can negatively impact assets
+
+Vulnerability: A weakness that can be exploited by a threat
+
+Asset management: The process of tracking assets and the risks that affect them
+
+Asset inventory: A catalog of assets that need to be protected
+
+Asset classification: The practice of labeling assets based on sensitivity and importance to an organization
+
+Levels of asset classification
+Public
+Internal-only
+Confidential
+Restricted
+
+Data: Information that is  translated, processed, or stored by a computer
+
+States of data
+In use
+In transit
+At rest
+
+Data in use: data being accessed by one or more users
+
+Data in transit: Data traveling from one point to another
+
+Data at rest: Data not currently being accessed
+
+Information security(InfoSec): The practice of keeping data in all states away from unauthorized users
+three main categories of cloud-based services
+Software as a service (SaaS): SaaS refers to front-end applications that users access via a web browser
+Platform as a service (PaaS): PaaS refers to back-end application development tools that clients can access online. 
+Infrastructure as a service (IaaS): IaaS customers are given remote access to a range of back-end systems that are hosted by the cloud service provider. 
+Google Cloud Platform
+Microsoft Azure
+
+
+Cloud security challenges
+Misconfiguration is one of the biggest concerns. Customers of cloud-based services are responsible for configuring their own security environment. Oftentimes, they use out-of-the-box configurations that fail to address their specific security objectives.
+Cloud-native breaches are more likely to occur due to misconfigured services.
+Monitoring access might be difficult depending on the client and level of service.
+Meeting regulatory standards is also a concern, particularly in industries that are required by law to follow specific requirements such as HIPAA, PCI DSS, and GDPR.
+
+
+Types of risk categories
+Damage 
+Disclosure
+Loss of information
+
+
+
+
+Elements of a security plan
+Policies
+Standards
+Procedures
+
+
+Policy: A set of rules that reduces risk and protects information
+
+
+Standards: References that inform how to set polices
+
+
+Procedures: Step by step instructions to perform a specific security task
+
+
+Complicance: The process of adhering to internal standards and external regulations
+
+
+Regulations: Rules set by a government or other authority to control the way something is done
+
+
+NIST Cybersecurity Framework(CSF): A voluntary framework that consists of standards guidelines, and best practices to manage cybersecurity risk
+Core
+Tiers
+Profiles
+
+
+Five functions of  the NIST CSF core
+Identify
+Protect
+Detect
+Respond
+Recover
+
+
+
+
+Course 5
+Module 2
+
+Security controls: Safeguards designed to reduce specific security risks
+Technical 
+Operational 
+Managerial
+
+Information privacy: The protection of unauthorized access and distribution of data
+
+Principle of least privilege: The concept of granting only the minimal access and authorization required to complete a task or function
+
+Data owner: The person that decides who can access, edit, use, or destroy their information
+
+Data custodian: Anyone or anything that’s responsible for the safe handling, transport, and storage of information
+
+Types of user accounts
+Guest accounts are provided to external users who need to access an internal network, like customers, clients, contractors, or business partners.
+User accounts are assigned to staff based on their job duties.
+Service accounts are granted to applications or software that needs to interact with other software on the network.
+Privileged accounts have elevated permissions or administrative access.
+
+
+Three common approaches to auditing user accounts
+Usage audits
+Privilege audits
+Account change audits
+
+
+
+
+The data lifecycle
+Collect
+Store
+Use
+Archive
+Destroy
+
+
+Data governance
+Data owner: the person that decides who can access, edit, use, or destroy their information.
+Data custodian: anyone or anything that's responsible for the safe handling, transport, and storage of information.
+Data steward: the person or group that maintains and implements data governance policies set by an organization.
+
+Types of information
+PII(Personally identifiable information) is any information used to infer an individual's identity., or PII, refers to information that can be used to contact or locate someone.
+PHI(protected health information).  In the U.S., it is regulated by the Health Insurance Portability and Accountability Act (HIPAA), which defines PHI as “information that relates to the past, present, or future physical or mental health or condition of an individual.” In the EU, PHI has a similar definition but it is regulated by the General Data Protection Regulation (GDPR).
+SPII is a specific type of PII that falls under stricter handling guidelines. The S stands for sensitive, meaning this is a type of personally identifiable information that should only be accessed on a need-to-know basis, such as a bank account number or login credentials.
+
+
+Information privacy refers to the protection from unauthorized access and distribution of data.
+
+
+Information security (InfoSec) refers to the practice of keeping data in all states away from unauthorized users.
+
+
+Notable privacy regulations
+General Data Protection Regulation (GDPR): a set of rules and regulations developed by the European Union (EU) that puts data owners in total control of their personal information.
+Payment Card Industry Data Security Standard (PCI DSS): a set of security standards formed by major organizations in the financial industry.
+Health Insurance Portability and Accountability Act (HIPAA):a U.S. law that requires the protection of sensitive patient health information
+
+
+A security audit is a review of an organization's security controls, policies, and procedures against a set of expectations.
+
+
+A security assessment is a check to determine how resilient current security implementations are against threats.
+
+
+Cryptography: The process of transforming information into a form that unintended readers can’t understand
+Algorithm: A set of rules used that solve a problem
+
+
+Cryptography key: A mechanism that decrypts ciphertext
+
+
+Brute force attack: A trial and error process of discovering private information
+
+
+Public key infrastructure (PKI): An encryption framework that secures the exchange of information online
+
+
+Asymmetric encryption: The use of a public and private key pair for encryption and decryption of data
+
+
+Symmetric encryption: The use of a single secret key to exchange information
+Public key infrastructure(PKI)  process
+Exchange of encrypted information
+Establish trust using a system of digital certificates 
+
+
+Digital certificates: A file that verifies the identity of a public key holder
+
+
+Hash function: An algorithm that produces a code that can’t be decrypted
+
+
+Non-repudiation: The concept that the authenticity of information can’t be denied
+
+
+Rainbow tables: a file of pre-generated hash values and their associated plaintext. 
+
+
+Access controls: Security controls that manage access, authorization, and accountability of information
+
+
+AAA framework
+Authentication
+Authorization
+Accounting
+Factors of authentication
+Knowledge: something the user knows
+Ownership: something the user possesses
+Characteristic: something the user is
+
+
+Single sign-on(SSO): A technology that combines several different logins into one
+SSO improves the user experience by eliminating the number of usernames and passwords people have to remember.
+Companies can lower costs by streamlining how they manage connected services.
+SSO improves overall security by reducing the number of access points attackers can target.
+
+
+
+
+Multi-factor authentication(MFA): A security measure which requires a user to verify their identity in two or more ways to access a system or network
+
+
+Separation of duties: The principle that users should not be given levels of authorization that would allow them to misuse a system
+
+
+Basic auth: The technology used to establish a user’s request to access a server
+
+
+OAuth: An open-standard authorization protocol that shares designated access between applications
+
+
+API token: A small block of encrypted code that contains information about a user
+
+
+Session: A sequence of network HTTP basic auth requests and responses associated with the same user
+
+
+Session ID: A unique token that identifies a user and their device while accessing the system
+Session cookie: A token that websites use to validate a session and determine how long that session should last
+
+
+Session hijacking: An event when attackers obtain a legitimate user’s session ID
+
+
+
+
+
+
+
+
+
+
+Course 5
+Module 3
+
+Vulnerability management: The process of finding and patching vulnerabilities
+Identify vulnerabilities
+Consider potential exploits
+Prepare defense against threats
+Evaluate those defenses
+
+Zero-day: An exploit that was previously unknown
+
+Defense in depth: A layered approach to vulnerability management that reduces risk
+Perimeter layer: like authentication systems that validate user access
+Network layer: which is made up of technologies like network firewalls and others
+Endpoint layer: which describes devices on a network, like laptops, desktops, or servers
+Application layer: which involves the software that users interact with
+Data layer:which includes any information that’s stored, in transit, or in use
+
+Exposure: A mistake that can be exploited by a threat
+
+Common Vulnerabilities and Exposures list(CVE list): An openly accessible dictionary of known vulnerabilities and exposures
+
+MITRE: A collection of non-profit research and development centers
+
+CVE Numbering Authority(CNA): An organization that volunteers to analyze and distribute information on eligible CVEs
+CVE list criteria	
+Independent of other issues
+Recognized as a potential security risk
+Submitted with supporting evidence
+Only affect one codebase
+
+Common Vulnerability Scoring System(CVSS): A measurement system that scores the severity of a vulnerability
+
+OWASP: a nonprofit foundation that works to improve the security of software
+
+
+
+
+
+
+
+
+
+
+
+
+OWASP Top 10
+Broken access control
+Cryptographic failures
+Injection
+Insecure design
+Security misconfiguration
+Vulnerable and outdated components
+Identification and authentication failures
+Software and data integrity failures
+Security logging and monitoring failures
+Server-side request forgery
+
+OSINT tools
+VIrusTotal
+MITRE ATT&CK
+OSINT Framework
+Have i been pwned
+
+Vulnerability assessment: The internal review process of an organization’s security systems
+Process
+Identification
+Vulnerability analysis 
+Risk assessment
+Remediation
+
+
+
+
+
+
+Penetration testing strategies
+Open box testing: when the tester has the same privileged access that an internal developer would have—information like system architecture, data flow, and network diagrams.
+Closed box testing: when the tester has little to no access to internal systems—similar to a malicious hacker. 
+Partial knowledge testing: when the tester has limited access and knowledge of an internal system
+
+Big bounty programs: Organizations commonly run bug bounty programs which offer freelance pen testers financial rewards for finding and reporting vulnerabilities in their products
+
+Attack surface: All the potential vulnerabilities that a threat actor could exploit
+
+Security hardening: The process of strengthening a system to reduce its vulnerabilities and attack surface
+Attack vectors: The pathways attackers use to penetrate security defenses
+
+Practicing an attacker mindset
+Identify a target
+Determine how the target can be accessed
+Evaluate attack vectors that can be exploited
+Find the tools and methods of attack
+
+Defending attack vectors
+Educating users
+Applying the principle of least privilege
+Using the right security controls and tools
+Building a diverse security team
+
+Social engineering: A manipulation technique that exploits human error to gain private information, access, or valuables
+Stages of social engineering
+Prepare
+Establish trust
+Use persuasion tactics
+Disconnect from the target
+
+Preventing social engineering
+Implementing managerial controls
+Staying informed of trends
+Sharing your knowledge with others
+
+Common types of social engineering 
+Baiting: a social engineering tactic that tempts people into compromising their security.
+Phishing: the use of digital communications to trick people into revealing sensitive data or deploying malicious software. 
+Quid pro quo: a type of baiting used to trick someone into believing that they’ll be rewarded in return for sharing access, information, or money
+Tailgating: a social engineering tactic in which unauthorized people follow an authorized person into a restricted area
+Watering hole:a type of attack when a threat actor compromises a website frequently visited by a specific group of users
+
+Phishing kit: A collection of software tools needed to launch a phishing campaign
+
+Phishing kit tools
+Malicious attachments
+Fake data-collection forms
+Fraudulent web links
+
+Form of phishing
+Smishing: The use of text messages to obtain sensitive information or to impersonate a known source
+Vishing: The exploitation of electronic voice communication to obtain sensitive information or impersonate a known source
+Spear phishing: a subset of email phishing in which specific people are purposefully targeted
+Whaling: a category of spear phishing attempts that are aimed at high-ranking executives in an organization.
+
+Phishing security measures
+Anti-Phishing policies
+Employee training resources
+Email filters
+Intrusion prevention systems
+
+Malware: software designed to harm devices or networks
+Virus: Malicious code written to interfere with computer operations and cause damage to data and software
+Worm: Malware that can duplicate and spread itself across systems on its own
+Trojan: Malware that looks like a legitimate file or program
+Ransomware: Type of malicious attack where attackers encrypt an organization’s data and demand payment to restore access
+Spyware: Malware that’s used to gather and sell information without consent
+Fileless malware:does not need to be installed by the user because it uses legitimate programs that are already installed to infect a computer.
+Rootkits: malware that provides remote, administrative access to a computer. Most attackers use rootkits to open a backdoor to systems, allowing them to install other forms of malware or to conduct network security attacks.
+
+Cryptojacking: A form of malware that installs software to illegally mine cryptocurrencies
+
+Intrusion detection systems(IDS): An application that monitors system activity and alerts on possible intrusions
+
+Sighs of cryptojacking
+Slowdown
+Increased CPU usage
+Sudden system crashes
+Fast draining batteries
+Usually high electricity costs
+
+Web-based exploits: Malicious code or behavior that’s used to take advantage of coding flaws in a web application
+
+Injection attack: Malicious code inserted into a vulnerable application
+
+Cross-site scripting(XSS): an injection attack that inserts code into a vulnerable website or web application
+Types of cross-site scripting attacks
+Reflected 
+Stored
+DOM-based
+
+Reflected XSS Attack: An instance when malicious script is sent to a server and activated during the server’s response
+
+Stored XSS attack: An instance when malicious script is injected directly on the server
+
+DOM-based XSS attack: An instance when malicious script exists in the webpage a browser loads
+
+SQL: A programming language used to create, interact with, and request information from a database
+
+SQL injection: An attack that executes unexpected queries on a database
+
+Prepared statement: A coding technique that executes SQL statements before passing them on to the database
+
+3 main categories of SQL injection
+In band
+Out of band
+Inferential
+
+Threat modeling: The process of identifying assets,their vulnerabilities, and how each is exposed to threats
+
+Threat modeling steps
+Define the scope
+Identify threats
+Characterize the environment
+Analyze threats
+Mitigate risks
+Evaluate findings
+
+Threat actor: Any person or group who presents a security risk
+
+Attack tree: A diagram that maps threats to assets
+
+PASTA: A popular threat modeling framework that’s used across many industries
+
+PASTA threat model framework
+Define business and security objectives
+Define the technical scope
+Decompose the application
+Perform a threat analysis
+Perform a vulnerability analysis
+Conduct attack modeling
+Analyze risk and impact
+
+Common frameworks
+STRIDE
+PASTA
+Trike
+VAST
+
+
+
+
+Course 6
+Module 1
+
+Incident: An occurrence that actually or imminently jeopardizes, without lawful authority, the confidentiality, integrity, or availability of information or an information system, or constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies
+
+Event: An observable occurrence on a network, system, or device
+
+The 5 W’s of an incident
+Who triggered the incident
+What happened 
+When the incident took place
+Where the incident took place
+Why the incident occurred
+
+Computer security incident response teams(CSIRT): A specialized group of security professionals that are trained in incident management and response
+
+Roles in CSIRT
+Security analyst
+Technical lead
+Incident coordinator
+
+NIST incident response lifecycle
+Preparation
+Detection and analysis
+Containment, Eradication, and Recovery
+Post-incident activity
+
+Tier 1 SOC analyst
+Monitoring, reviewing and prioritizing alerts based on criticality or severity
+Creating and closing alerts using ticketing systems
+Escalating alert tickets to Tier 2 or Tier 3 
+
+Tier 2
+Receiving escalated tickets from L1 and conducting deeper investigation
+Configuring and refining security tools
+Reporting to the SOC Lead 
+
+
+
+Tier 3
+Managing the operations of their team
+Exploring methods of detection
+Reporting to the SOC manager
+
+SOC manager
+Hiring, training, and evaluating the SOC team members
+Creating performance metrics and managing the performance of the SOC team
+Developing reports related to incidents, compliance, and auditing
+
+Forensic investigators: Forensic investigators are commonly L2s and L3s who collect, preserve, and analyze digital evidence related to security incidents to determine what happened.
+
+Threat hunters: Threat hunters are typically L3s who work to detect, analyze, and defend against new and advanced cybersecurity threats using threat intelligence.
+
+Elements of a security plan
+Policies
+Standards
+Procedures
+
+Incident response plan: A document that outlines the procedures to take in each step of incident response
+
+Elements of an incident plan
+Incident response procedures
+System information
+Other documents
+
+Tool types
+Detection and management tools
+Documentation tools
+Investigative tools
+
+Documentation: Any form of recorded content that is used for a specific purpose
+Playbooks
+Incident handler’s journals
+Policies
+Plans
+Final reports
+
+Ticketing system	
+Jira
+
+Other tools
+Google sheets
+Audio recorders
+Cameras
+Handwritten notes
+
+Intrusion detection system(IDS): An application that monitors system and network activity and produces alerts on possible intrusions
+
+Intrusion prevention system(IPS): An application that monitors system activity for intrusions and take action to stop the activity
+
+IDS and IPS tools
+Snort
+Zeek
+Kismet
+Sagan
+Suricata
+
+Security Information and Event Management (SIEM) : An application that collects and analyzes log data to monitor critical activities in an organization
+
+SIEM process
+Collect and aggregate data
+Normalize data
+Analyze data
+
+Security orchestration, automation, and response(SOAR): A collection of applications, tools, and workflows that uses automation to respond to security events
+
+SIEM tools
+AlienVault® OSSIM™
+Chronicle
+Elastic
+Exabeam
+IBM QRadar® Security Intelligence Platform
+LogRhythm
+Splunk
+
+
+False negative: A state where the presence of a threat is not detected
+False positive: An alert that incorrectly detects the presence of a threat
+True negative: A state where there is no detection of malicious activity
+True positive An alert that correctly detects the presence of an attack
+
+Course 6
+Module 2
+
+Indicators of compromise(IOC): Observable evidence that suggests signs of a potential security incident
+
+Data Exfilteration: Unauthorized transmission of data from system
+
+Defensive measures
+Prevent attacker access
+Monitor network activity
+Protect assets
+Detect and stop the exfiltration
+
+Components of a packet
+Header
+Payload
+Footer
+
+Network protocol analyzer(packet sniffer): A tool designed to capture and analyze data traffic within a network
+
+Packet capture(P-cap): A file containing data packets intercepted from an interface or network
+Course 6
+Module 3
+
+Analysis: The investigation and validation of alerts
+
+Threat hunting:  the proactive search for threats on a network
+
+Hash values: Hashes that correspond to known malicious files. These are often used to provide unique references to specific samples of malware or to files involved in an intrusion.
+IP addresses: An internet protocol address like 192.168.1.1
+Domain names: A web address such as www.google.com 
+Network artifacts: Observable evidence created by malicious actors on a network. For example, information found in network protocols such as User-Agent strings. 
+Host artifacts: Observable evidence created by malicious actors on a host. A host is any device that’s connected on a network. For example, the name of a file created by malware.
+Tools: Software that’s used by a malicious actor to achieve their goal. For example, attackers can use password cracking tools like John the Ripper to perform password attacks to gain access into an account.
+Tactics, techniques, and procedures (TTPs): This is the behavior of a malicious actor. Tactics refer to the high-level overview of the behavior. Techniques provide detailed descriptions of the behavior relating to the tactic. Procedures are highly detailed descriptions of the technique. TTPs are the hardest to detect. 
+Domain names: org.misecure.com is reported as a malicious contacted domain under the Relations tab in the VirusTotal report.
+IP address: 207.148.109.242 is listed as one of many IP addresses under the Relations tab in the VirusTotal report. This IP address is also associated with the org.misecure.com domain as listed in the DNS Resolutions section under the Behavior tab from the Zenbox sandbox report.
+Hash value: 287d612e29b71c90aa54947313810a25 is a MD5 hash listed under the Details tab in the VirusTotal report.
+Network/host artifacts: Network-related artifacts that have been observed in this malware are HTTP requests made to the org.misecure.com domain. This is listed in the Network Communications section under the Behavior tab from the Venus Eye Sandbox and Rising MOVES sandbox reports. 
+Tools: Input capture is listed in the Collection section under the Behavior tab from the Zenbox sandbox report. Malicious actors use input capture to steal user input such as passwords, credit card numbers, and other sensitive information.
+TTPs: Command and control is listed as a tactic under the Behavior tab from the Zenbox sandbox report. Malicious actors use command and control to establish communication channels between an infected system and their own system.
+
+
+
+
